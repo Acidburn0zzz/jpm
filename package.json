@@ -80,7 +80,7 @@
     "release-it": "2.3.1",
     "rimraf": "2.3.2",
     "teacher": "0.0.1",
-    "xmldom": "0.1.19"
+    "xmldom": "0.6.0"
   },
   "author": "Jordan Santell",
   "license": "MPL-2.0",
